@@ -1,1 +1,1 @@
-https://sourceforge.net/projects/community-linux-64/files/comlin64/initramfs/lib/systemd/boot/efi/systemd-bootx64.efi/download
+attempt at making a kernel, will get back to this in the future
